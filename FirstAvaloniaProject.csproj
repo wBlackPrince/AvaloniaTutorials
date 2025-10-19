@@ -21,11 +21,25 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Assets\Images\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <None Remove="Assets\Images\logo.png" />
       <AvaloniaResource Include="Assets\Images\logo.png" />
+      <None Remove="Assets\Images\book-bookmark-fill.png" />
+      <AvaloniaResource Include="Assets\Images\book-bookmark-fill.png" />
+      <None Remove="Assets\Images\cell-tower-fill.png" />
+      <AvaloniaResource Include="Assets\Images\cell-tower-fill.png" />
+      <None Remove="Assets\Images\coins-fill.png" />
+      <AvaloniaResource Include="Assets\Images\coins-fill.png" />
+      <None Remove="Assets\Images\git-branch-fill.png" />
+      <AvaloniaResource Include="Assets\Images\git-branch-fill.png" />
+      <None Remove="Assets\Images\list-star-fill.png" />
+      <AvaloniaResource Include="Assets\Images\list-star-fill.png" />
+      <None Remove="Assets\Images\polygon-fill.png" />
+      <AvaloniaResource Include="Assets\Images\polygon-fill.png" />
+      <None Remove="Assets\Fonts\orange juice 2.0.ttf" />
+      <AvaloniaResource Include="Assets\Fonts\orangejuice.ttf" />
+      <None Remove="Assets\Fonts\28 Days Later.ttf" />
+      <AvaloniaResource Include="Assets\Fonts\28dayslater.ttf" />
+      <None Remove="Assets\Fonts\Phosphor-Fill.ttf" />
+      <AvaloniaResource Include="Assets\Fonts\Phosphor-Fill.ttf" />
     </ItemGroup>
 </Project>

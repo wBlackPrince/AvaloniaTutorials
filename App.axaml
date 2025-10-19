@@ -19,5 +19,9 @@
         
         <SolidColorBrush x:Key="PrimaryHoverBackground">white</SolidColorBrush>
         <SolidColorBrush x:Key="PrimaryHoverText">#333B5A</SolidColorBrush>  
+        
+        <FontFamily x:Key="orangejuice">/Assets/Fonts/orangejuice.ttf#orange juice</FontFamily>
+        <FontFamily x:Key="28dayslater">/Assets/Fonts/28dayslater.ttf#28 Days Later</FontFamily>
+        <FontFamily x:Key="Phosphor">/Assets/Fonts/Phosphor-Fill.ttf#Phosphor-Fill</FontFamily>
     </Application.Resources>
 </Application>

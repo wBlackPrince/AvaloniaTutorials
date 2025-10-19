@@ -71,3 +71,4 @@ D:\asp_apps\FirstAvaloniaProject\obj\Debug\net9.0\refint\FirstAvaloniaProject.dl
 D:\asp_apps\FirstAvaloniaProject\obj\Debug\net9.0\FirstAvaloniaProject.pdb
 D:\asp_apps\FirstAvaloniaProject\obj\Debug\net9.0\FirstAvaloniaProject.genruntimeconfig.cache
 D:\asp_apps\FirstAvaloniaProject\obj\Debug\net9.0\ref\FirstAvaloniaProject.dll
+D:\asp_apps\FirstAvaloniaProject\obj\Debug\net9.0\FirstAvaloniaProject.sourcelink.json
